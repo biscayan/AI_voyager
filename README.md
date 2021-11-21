@@ -7,6 +7,11 @@
     - 기간 : 2021.10.19 ~ 2021.11.21
     - 분야 : computer vision
     - 세부 분야 : semantic segmentation
+- [2021 Ego-Vision 손동작 인식 AI 경진대회](https://dacon.io/competitions/official/235805/overview/description)
+    - 기간 : 2021.11.22 ~ 
+    - 분야 : computer vision
+    - 세부 분야 : image classification
 ## 논문
 - [Deep Residual Learning for Image Recognition](https://cs.colby.edu/courses/S16/cs365/papers/he-deepLearningOR-CVPR15.pdf)
 - [Efficientnet: Rethinking model scaling for convolutional neural network](https://arxiv.org/pdf/1905.11946.pdf)
+- [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
