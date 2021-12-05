@@ -1,6 +1,6 @@
 # AI_voyager
 이 저장소는 AI(ML&DL)에 대해 탐구하고, 학습한 내용을 기록하기 위해 만들어졌습니다.  
-스터디 참가자는 [With-Coding-Cat](https://github.com/With-Coding-Cat), [taegyukim1223](https://github.com/taegyukim1223), [biscayan](https://github.com/biscayan), [ehsqjfwk99999](https://github.com/ehsqjfwk99999), 그리고 [seokhwanchoi](https://github.com/seokhwanchoi)입니다.  
+스터디 참가자는 [With-Coding-Cat](https://github.com/With-Coding-Cat), [taegyukim1223](https://github.com/taegyukim1223), [biscayan](https://github.com/biscayan), [ehsqjfwk99999](https://github.com/ehsqjfwk99999), 그리고 [KEJdev](https://github.com/KEJdev)입니다.  
 스터디 내용은 다음과 같습니다.  
 ## 대회
 - [눈바디 AI Challenge](https://aiheroes2021oct.oopy.io/)
@@ -21,3 +21,4 @@
 - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
 - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
