@@ -36,3 +36,5 @@
 - [Language Models are Unsupervised Multitask Learners](http://www.persagen.com/files/misc/radford2019language.pdf)
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
 - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf)
+- [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
+- [Electra: Pre-training text encoders as discriminators rather than generators](https://arxiv.org/abs/2003.10555)
