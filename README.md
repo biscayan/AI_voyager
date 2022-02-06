@@ -19,11 +19,6 @@
     - 기간 : 2021.12.18 ~ 2022.01.11
     - 분야 : NLP
     - 세부 분야 : classification
-- [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)
-    - 기간 : 2022.01.12 ~ 
-    - 분야 : computer vision
-    - 세부 분야 : 
-
 ## 논문
 - [Deep Residual Learning for Image Recognition](https://cs.colby.edu/courses/S16/cs365/papers/he-deepLearningOR-CVPR15.pdf)
 - [EfficientNet: Rethinking model scaling for convolutional neural network](https://arxiv.org/pdf/1905.11946.pdf)
@@ -38,3 +33,5 @@
 - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf)
 - [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
 - [Electra: Pre-training text encoders as discriminators rather than generators](https://arxiv.org/abs/2003.10555)
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+- [Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions](https://ieeexplore.ieee.org/abstract/document/9053889?casa_token=GQJDVQ24ZuMAAAAA:85inqe1yFU-d49CNpC7lPCRk4k2nhZx47MhbIa7SxcwKJEEM1rvwb2MjYWURODWY4UbNMIWn9Hw)
